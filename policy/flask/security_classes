@@ -19,6 +19,6 @@ class event
 class grant
 class security
 class version
-class v4v
+class argo
 
 # FLASK
